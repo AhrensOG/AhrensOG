@@ -54,5 +54,3 @@ const aboutMe = {
 
 </br>
 <h4 align="center">Visitor's :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ahrensog}/count.svg" alt="ahrensog :: Visitor's Count" /></p>
