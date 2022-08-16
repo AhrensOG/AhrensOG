@@ -46,52 +46,13 @@ const aboutMe = {
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancpineda&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahrensog&show_icons=true&theme=dark" alt="ahrensog" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancpineda&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="bryancpineda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahrensog&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ahrensog" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryancpineda&theme=dark" alt="bryancpineda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahrensog&theme=dark" alt="ahrensog" /></p>
 
 </br>
 <h4 align="center">Visitor's :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{bryancpineda}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
-
-
-
-
-
-
-<a href="https://github.com/AhrensOG">
-	<img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/AhrensOG">
-	<img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/AhrensOG">
-	<img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-<a href="https://github.com/AhrensOG">
-	<img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-<a href="https://github.com/AhrensOG">
-	<img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/AhrensOG">
-	<img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/AhrensOG">
-	<img align="center" width="49%" src="./achievements.svg" />
-</a>
-
-## 👋 Keep in touch
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=charly3pins)
-[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://charly3pins.dev)
-[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/charly3pins)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlesfuste/)
-
-## 👨‍💻 Blog
-
-Besides writing code, I like to write articles about things that I find interesting. You can read the articles at **[charly3pins.dev](https://charly3pins.dev)**
+<p align="center"><img src="https://profile-counter.glitch.me/{ahrensog}/count.svg" alt="ahrensog :: Visitor's Count" /></p>
