@@ -45,8 +45,10 @@ const aboutMe = {
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahrensog&show_icons=true&theme=dark" alt="ahrensog" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahrensog&show_icons=true&theme=dark" alt="ahrensog" /></p> 
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahrensog&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ahrensog" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahrensog&theme=dark" alt="ahrensog" /></p>
 
